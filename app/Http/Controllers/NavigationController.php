@@ -13,16 +13,16 @@ class NavigationController extends Controller
 
     public function servicos()
     {
-        return view(view: 'site.servicos');
+        return view(view: 'Site.servicos');
     }
 
     public function galeria()
     {
-        return view(view: 'site.galeria');
+        return view(view: 'Site.galeria');
     }
 
     public function contato()
     {
-        return view(view: 'site.contato');
+        return view(view: 'Site.contato');
     }
 }
