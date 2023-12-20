@@ -8,7 +8,7 @@ class NavigationController extends Controller
 {
     public function home()
     {
-        return view(view: 'site.home');
+        return view(view: 'Site.home');
     }
 
     public function servicos()
