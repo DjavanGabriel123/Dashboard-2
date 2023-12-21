@@ -10,7 +10,7 @@
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
     <script src="https://kit.fontawesome.com/9740156a5f.js" crossorigin="anonymous"></script>
-    @style
+    <style>
         body {
         background-color: #e5e5e5;
         color: #e5e5e5;
@@ -907,7 +907,8 @@
         }
         }
         }
-    @endstyle
+    </style>
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
 
 </head>
