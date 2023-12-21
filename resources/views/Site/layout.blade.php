@@ -915,8 +915,6 @@
 
 <body>
     <script>
-        import './bootstrap';
-
         //JQuery
         $(document).ready(function() {
             $('.modal').modal();
